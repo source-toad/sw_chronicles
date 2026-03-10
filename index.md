@@ -10,5 +10,3 @@ order: 1
 Welcome to the campaign archive. The archives? They must be incomplete.
 
 ## Setting
-
-- [Planets]({{ "/planets/" | relative_url }})
