@@ -13,5 +13,5 @@ permalink: /planets/
   - [{{ planet.title }}]({{ planet.url | relative_url }})
   {% endfor %}
 {% else %}
-_No planets yet_
+_No planets yet..._
 {% endif %}
