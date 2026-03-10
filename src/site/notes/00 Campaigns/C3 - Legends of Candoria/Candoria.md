@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"layout":"page","title":"Candoria","permalink":"/00 Campaigns/C3 - Legends of Candoria/Candoria/","collection":"planets","dgPassFrontmatter":true}
+{"dg-publish":true,"layout":"page","title":"Candoria","permalink":"//planets/candoria//","collection":"planets","dg-path":"/planets/candoria/","dgPassFrontmatter":true}
 ---
 
 ### Overview
