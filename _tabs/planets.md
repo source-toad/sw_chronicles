@@ -7,6 +7,11 @@ permalink: /planets/
 ---
 
 {% assign sorted = site.pages | where:"collection","planets" | sort: "title" %}
-{% for planet in sorted %}
-- [{{ planet.title }}]({{ planet.url | relative_url }})
-{% endfor %}
+
+{% if sorted.size > 0 %}
+  {% for planet in sorted %}
+  - [{{ planet.title }}]({{ planet.url | relative_url }})
+  {% endfor %}
+{% else %}
+_No planets yet_
+{% endif %}
