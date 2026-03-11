@@ -206,16 +206,6 @@ defaults:
       layout: page
       permalink: /:title/
 
-  # Planets collection – **explicit defaults**
-  - scope:
-      path: "src/site/notes/00 Campaigns/C3 - Legends of Candoria"
-      type: planets
-    values:
-      layout: post        # Force use of post layout
-      toc: true           # Enable TOC
-      comments: true      # Optional, if you want comments
-      permalink: /planets/:basename/  # Clean URL
-
   # Pages
   - scope:
       path: "" 
