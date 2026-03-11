@@ -6,7 +6,7 @@
 
 Candoria is a temperate forest world in the Mid Rim, in a system adjacent to one of the early long-distance trade corridors connecting a handful of developing star systems toward the Coreward regions. While it has never been a major hub, occasional travellers, merchants, and scouts pass through the system.
 
-The planet’s continents are dominated by vast forests that stretch for thousands of kilometres. Towering trees form dense canopies that block much of the sunlight from reaching the forest floor, creating dim and cool conditions beneath. The forests themselves are largely unbroken, interrupted only by river valleys, exposed ridges, and the gradual ascent toward mountain ranges, where the terrain opens into broader upland belts.
+The planet’s continents are dominated by vast forests that stretch for thousands of kilometres. Towering trees form dense canopies that block much of the sunlight from reaching the forest floor, creating dim and cool conditions beneath. The forests themselves are largely unbroken, interrupted only by river valleys, exposed ridges, and the gradual ascent toward mountain ranges, where the terrain opens into broader upland belts. 
 
 These highlands marked by rolling upland slopes, elevated valleys, and occasional mesas, provide the only significant open ground suitable for settlement, travel, or agriculture. Both ancient and modern communities have consistently taken advantage of these elevated regions. They offer natural protection from the most dangerous forest predators and provide clear lines of sight across the surrounding wilderness.
 
