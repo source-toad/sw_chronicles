@@ -55,12 +55,14 @@ Instead, it functions as a regional crossroads between neighbouring systems alon
 Because the Trace attracts explorers, prospectors, and independent traders operating far from the centres of established civilization, the system also sees its share of travellers who prefer to keep their movements quiet.
 
 ---
-### Between the Forest and the Routes
+## General Population
 
-The worlds of the Vindalian System reflect the character of the corridor that connects them.
+The primary sentient species of the Vindalian System are the Vindalians, a humanoid species that inhabit the temperate planets, particularly Vindalia and Haldrin.
 
-Dense wilderness dominates Vindalia. Mining rigs cling to the asteroids of the inner belt. Industrial settlements gather around the more open temperate worlds, while harvesting platforms drift through the clouds of the outer giant.
+Vindalians are broadly human in appearance, but their facial structure carries a vulpine resemblance, with elongated snouts, tapered cheeks, and slightly pointed ears. This gives their faces a subtly fox-like aspect without interfering with speech or expression.
 
-Ships arrive from neighbouring systems, exchange cargo and supplies, and depart again along Shipwrights’ Trace.
+Notably, the species exhibits sexual dimorphism. Females are generally larger and more robust than males, and size in females is traditionally considered an attractive and desirable trait. Males are more slender and agile, though still physically capable, and typically take on roles that benefit from speed, dexterity, or coordination rather than raw size.
 
-In an era when interstellar travel remains slow and uncertain, the Vindalian System stands as a steady waypoint along a long and difficult path between the stars.
+Culturally, the Vindalians place a strong emphasis on community, resilience, and adaptability, reflecting the challenges of living on a frontier world like Vindalia, where dense forests, highlands, and unpredictable wilderness demand resourcefulness. 
+
+Despite differences in size and physical appearance, Vindalians are generally cooperative and social, forming networks of trade, resource sharing, and mutual defence across settlements. Their society is flexible, shaped by both the natural environment of the planets they inhabit and the scattered nature of trade and travel along Shipwrights’ Trace.
