@@ -1,5 +1,5 @@
 ---
-{"layout":"post","toc":"true","dg-publish":true,"dg-path":"lore/vindalia-system","title":"Vindalia System","collection":"lore","date":"2026-03-12","icon":"fas fa-atom","permalink":"/lore/vindalia-system/","dgPassFrontmatter":true}
+{"layout":"post","toc":"true","dg-publish":true,"dg-path":"lore/vindalia-system","title":"Vindalia System","collection":"lore","date":"2026-03-12","icon":"fas fa-sun","permalink":"/lore/vindalia-system/","dgPassFrontmatter":true}
 ---
 
 <h2> Overview </h2>
@@ -32,7 +32,7 @@ Within the system’s temperate orbital band lie several planets capable of supp
 
 **Vindalia** is the most geographically striking of these worlds. Its continents are dominated by immense forests that stretch across the planet for thousands of kilometres. Only the upland highlands and plateau belts offer terrain suitable for settlements, travel, or agriculture. These elevated regions host scattered frontier communities that rely on rivers, forests, and local trade to survive.
 
-Closer to the inner edge of the temperate zone lies a far more open and hospitable planet. Haldin's broad plains and stable climate have allowed settlements to expand into dense population centres. Over time it has grown into the largest population hub of the system, supporting manufacturing districts, marketplaces, and orbital docking platforms that service vessels travelling along Shipwrights’ Trace.
+Closer to the inner edge of the temperate zone lies a far more open and hospitable planet. Haldin's broad plains and stable climate have allowed settlements to expand into dense population centres. Over time it has grown into the largest population hub of the system, supporting manufacturing districts, marketplaces, and docking platforms that service vessels travelling along Shipwrights’ Trace.
 
 Farther outward lies another habitable world, Orvessa, whose harsher environment has limited large-scale development. Instead, it supports scattered coastal settlements and small ports that trade with ships moving between the system’s other worlds.
 
