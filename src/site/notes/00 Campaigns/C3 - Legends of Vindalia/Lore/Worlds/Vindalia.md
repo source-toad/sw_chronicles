@@ -4,14 +4,6 @@
 
 <h2> Overview </h2>
 
-### Planetary Data
-
-> ## System Data
-> - <i class="fas fa-sun"></i> **Primary Star:** K-Type  
-> - <i class="fas fa-globe"></i> **Planets:** 5  
-> - <i class="fas fa-route"></i> **Trade Route:** Perlemian Spur  
-> - <i class="fas fa-star"></i> **Population Centers:** 3 major colonies
-
 Vindalia is a temperate forest world in the Mid Rim, in a system adjacent to one of the early long-distance trade corridors connecting a handful of developing star systems toward the Coreward regions. While it has never been a major hub, occasional travellers, merchants, and scouts pass through the system. 
 
 The planet’s continents are dominated by vast forests that stretch for thousands of kilometres. Towering trees form dense canopies that block much of the sunlight from reaching the forest floor, creating dim and cool conditions beneath. The forests themselves are largely unbroken, interrupted only by river valleys, exposed ridges, and the gradual ascent toward mountain ranges, where the terrain opens into broader upland belts. 
@@ -77,6 +69,13 @@ Activity on the planet typically revolves around:
 - Small agricultural or hunting communities established on the highland slopes
 
 Beyond the inhabited uplands, much of Vindalia’s surface remains only loosely explored. The immense forest canopy limits aerial visibility, and large portions of the lowlands have never been surveyed in detail. That said, small communities of forest-dwellers are known to exist, though can be impossible to find, even if you have visited before. These forest-dwellers can often be hostile and fearful of outsiders.
+
+> #### Vindalians – Species Data
+> - <i class="fas fa-calendar-alt"></i> **Average Lifespan:** 100-140 years  
+> - <i class="fas fa-ruler-vertical"></i> **Average Height:** Males 1.7 m / Females 1.9 m  
+> - <i class="fas fa-weight-hanging"></i> **Average Weight:** Males 70–90 kg / Females 85–110 kg  
+> - <i class="fas fa-users"></i> **Social Structure:** Matriarchal  
+> - <i class="fas fa-flask"></i> **Biology:** Humanoid with vulpine facial features; females larger than males  
 
 The primary sentient species of the Vindalian System are the Vindalians, a humanoid species that inhabit the temperate planets, particularly Vindalia and Haldrin.
 
