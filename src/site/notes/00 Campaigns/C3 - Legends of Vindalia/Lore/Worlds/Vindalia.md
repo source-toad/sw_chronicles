@@ -72,13 +72,13 @@ Beyond the inhabited uplands, much of Vindalia’s surface remains only loosely 
 
 The primary sentient species of the Vindalian System are the Vindalians, a humanoid species that inhabit the temperate planets, particularly Vindalia and Haldrin.
 
-Vindalians are broadly human in appearance, but their facial structure carries a vulpine resemblance, with elongated snouts, tapered cheeks, and slightly pointed ears. This gives their faces a subtly fox-like aspect without interfering with speech or expression.
+Vindalians are broadly human in appearance, but their facial structure carries a vulpine resemblance, with elongated snouts, tapered cheeks, and slightly pointed ears. This gives their faces a subtly fox-like aspect without interfering with speech or expression. 
 
 Notably, the species exhibits sexual dimorphism. Females are generally larger and more robust than males, and size in females is traditionally considered an attractive and desirable trait. Males are more slender and agile, though still physically capable, and typically take on roles that benefit from speed, dexterity, or coordination rather than raw size.
 
-Culturally, the Vindalians place a strong emphasis on community, resilience, and adaptability, reflecting the challenges of living on a frontier world like Vindalia, where dense forests, highlands, and unpredictable wilderness demand resourcefulness. 
+Culturally, the Vindalians place a strong emphasis on community, resilience, and adaptability, reflecting the challenges of living on a frontier world like Vindalia, where dense forests, highlands, and unpredictable wilderness demand resourcefulness. They have an average life-span of approximately 120 years, slightly longer than the average human.
 
-Despite differences in size and physical appearance, Vindalians are generally cooperative and social, forming networks of trade, resource sharing, and mutual defence across settlements. Their society is flexible, shaped by both the natural environment of the planets they inhabit and the scattered nature of trade and travel along Shipwrights’ Trace.
+Despite differences in size and physical appearance, Vindalians are generally cooperative and social, forming networks of trade, resource sharing, and mutual defence across settlements. Their society is flexible, shaped by both the natural environment of the planets they inhabit and the scattered nature of trade and travel along Shipwrights’ Trace. 
 
 ## The Broader System
 
