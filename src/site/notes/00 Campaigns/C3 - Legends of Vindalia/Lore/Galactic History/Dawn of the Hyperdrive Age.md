@@ -20,7 +20,7 @@ The limited number of safe routes has also created strategic choke points. Traff
 
 Communication between star systems has developed alongside hyperdrive travel, but it remains limited by the same challenges that affect navigation and exploration. While most settled worlds maintain robust planetary communications networks, transmitting messages across interstellar distances is far less reliable.
 
-The earliest method of interstellar communication was simple **physical transport**. Messages, navigation data, and official dispatches were carried aboard courier vessels traveling established hyperspace routes. Even today, this remains the most dependable way to transmit large amounts of information between systems. Many traders and survey ships routinely carry sealed data packets alongside their cargo.
+The earliest method of interstellar communication was simple physical transport. Messages, navigation data, and official dispatches were carried aboard courier vessels traveling established hyperspace routes. Even today, this remains the most dependable way to transmit large amounts of information between systems. Many traders and survey ships routinely carry sealed data packets alongside their cargo.
 
 More recently, specialized long-range relay transmitters have begun to appear along the most heavily travelled hyperspace corridors. These installations allow for compressed signal bursts to be transmitted between relay stations, gradually passing messages from system to system. While faster than physical couriers, these relay chains are still limited in reach and capacity, and most networks only extend along the safest and most frequently traveled routes.
 
