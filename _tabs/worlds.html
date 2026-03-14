@@ -1,0 +1,59 @@
+---
+layout: page
+title: Worlds
+icon: fas fa-globe
+order: 4
+permalink: /worlds/
+---
+
+{% include lang.html %}
+
+{% assign HEAD_PREFIX = 'h_' %}
+{% assign LIST_PREFIX = 'l_' %}
+{% assign group_index = 0 %}
+
+{% assign sorted_worlds = site.pages | where:"collection","worlds" | sort: "title" %}
+
+{% if sorted_worlds.size > 0 %}
+<div class="card worlds">
+  <!-- header -->
+  <div id="{{ HEAD_PREFIX }}{{ group_index }}" class="card-header d-flex justify-content-between hide-border-bottom">
+    <span class="ms-2">
+      <i class="fas fa-globe fa-fw"></i>
+      {{ page.title }}
+
+      <!-- count of world entries -->
+      <span class="text-muted small ps-2">{{ sorted_worlds.size }}</span>
+    </span>
+
+    <!-- arrow (disabled since no sub-groups yet) -->
+    <span data-bs-toggle="collapse" class="category-trigger hide-border-bottom disabled">
+      <i class="fas fa-fw fa-angle-right"></i>
+    </span>
+  </div>
+
+  <!-- worlds list -->
+  <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
+    <ul class="list-group">
+      {% for entry in sorted_worlds %}
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+          <span>
+            {% if entry.icon %}
+              <i class="{{ entry.icon }} fa-fw me-2"></i>
+            {% else %}
+              <i class="fas fa-globe fa-fw me-2"></i>
+            {% endif %}
+            <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+          </span>
+          {% if entry.date %}
+            {% include datetime.html date=entry.date class='text-muted small text-nowrap' lang=lang %}
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% else %}
+<p class="text-muted fst-italic">_No worlds yet..._</p>
+{% endif %}
